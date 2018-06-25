@@ -1,0 +1,38 @@
+p
+{
+	color: black;
+}
+.Photo
+{
+	background-color: red;
+}
+.paragraphe1
+{
+	color: white;
+	background-color: blue;
+	font-size: 16px;
+	font-family: courier new,"Arial Black", Arials-seri, Verdana, sanf;
+}
+.important
+{
+	font-size: 40px;
+}
+.lien
+{
+	background-color: green;
+}
+.liste
+{
+	background-color: orange;
+}
+
+.titreP
+{
+	position: relative;
+	text-align: center;
+	color:orange;
+	background-color: blue;
+	font-style: italic;
+	font-weight: bold;
+	width: 250px;
+}
